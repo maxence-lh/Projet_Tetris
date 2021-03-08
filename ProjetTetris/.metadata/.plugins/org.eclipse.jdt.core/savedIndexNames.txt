@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Nicola\Desktop\Formation CampusAcademy\Campus Academy\POO Fundamentals\Projet Tetris\ProjetTetris\.metadata\.plugins\org.eclipse.jdt.core
+3065874140.index
+2112246634.index
